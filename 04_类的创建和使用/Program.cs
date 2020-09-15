@@ -32,7 +32,7 @@ namespace _04_类的创建和使用
         //字段
         public string name;
         protected int age;
-        //属性
+        //属性 ctrl+R,E
         public string Name { get => name; set => name = value; }
         public int Age { get => age; set => age = value; }
 
