@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00_类的声明", "9_15_obj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_类的字段", "02_类的字段\02_类的字段.csproj", "{D233AF68-DD82-451A-8EA9-C43AA7E9496E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_类的访问修饰符", "03\03_类的访问修饰符.csproj", "{FA59CBFD-C9B6-4534-B868-41D61ED3DCA0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D233AF68-DD82-451A-8EA9-C43AA7E9496E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D233AF68-DD82-451A-8EA9-C43AA7E9496E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D233AF68-DD82-451A-8EA9-C43AA7E9496E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA59CBFD-C9B6-4534-B868-41D61ED3DCA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA59CBFD-C9B6-4534-B868-41D61ED3DCA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA59CBFD-C9B6-4534-B868-41D61ED3DCA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA59CBFD-C9B6-4534-B868-41D61ED3DCA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
